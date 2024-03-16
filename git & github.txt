@@ -1,0 +1,22 @@
+تحميل المشروع من GIt الى الجهاز
+git clone (link project)
+
+حاله المشروع وتفقد البيانات الناقصة 
+git status
+
+اظافة الملف المشروع
+git add
+
+الغاء رفع ملف معين
+git reset head (اسم الملف)
+
+كومنت او شرح 
+git commit -m ""
+
+تعريف جميع البرنش التي موجود في الجهاز
+git branch
+
+
+git push RemoteName BranchName
+
+git remote -v
